@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: movie-catalog-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: com.sid.springbootdata
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://spring.io/projects/spring-boot/movie-catal
+ og-service
+Created-By: Maven Integration for Eclipse
+
